@@ -1,0 +1,40 @@
+PASS	Basic Statistics	projectA_R1.fastq
+PASS	Per base sequence quality	projectA_R1.fastq
+PASS	Per sequence quality scores	projectA_R1.fastq
+PASS	Per base sequence content	projectA_R1.fastq
+PASS	Per sequence GC content	projectA_R1.fastq
+PASS	Per base N content	projectA_R1.fastq
+PASS	Sequence Length Distribution	projectA_R1.fastq
+PASS	Sequence Duplication Levels	projectA_R1.fastq
+PASS	Overrepresented sequences	projectA_R1.fastq
+FAIL	Adapter Content	projectA_R1.fastq
+PASS	Basic Statistics	projectA_R2.fastq
+WARN	Per base sequence quality	projectA_R2.fastq
+PASS	Per sequence quality scores	projectA_R2.fastq
+WARN	Per base sequence content	projectA_R2.fastq
+WARN	Per sequence GC content	projectA_R2.fastq
+PASS	Per base N content	projectA_R2.fastq
+PASS	Sequence Length Distribution	projectA_R2.fastq
+PASS	Sequence Duplication Levels	projectA_R2.fastq
+PASS	Overrepresented sequences	projectA_R2.fastq
+PASS	Adapter Content	projectA_R2.fastq
+PASS	Basic Statistics	projectB_R1.fastq
+PASS	Per base sequence quality	projectB_R1.fastq
+PASS	Per sequence quality scores	projectB_R1.fastq
+PASS	Per base sequence content	projectB_R1.fastq
+PASS	Per sequence GC content	projectB_R1.fastq
+PASS	Per base N content	projectB_R1.fastq
+PASS	Sequence Length Distribution	projectB_R1.fastq
+PASS	Sequence Duplication Levels	projectB_R1.fastq
+PASS	Overrepresented sequences	projectB_R1.fastq
+FAIL	Adapter Content	projectB_R1.fastq
+PASS	Basic Statistics	projectB_R2.fastq
+PASS	Per base sequence quality	projectB_R2.fastq
+PASS	Per sequence quality scores	projectB_R2.fastq
+WARN	Per base sequence content	projectB_R2.fastq
+PASS	Per sequence GC content	projectB_R2.fastq
+PASS	Per base N content	projectB_R2.fastq
+PASS	Sequence Length Distribution	projectB_R2.fastq
+PASS	Sequence Duplication Levels	projectB_R2.fastq
+PASS	Overrepresented sequences	projectB_R2.fastq
+PASS	Adapter Content	projectB_R2.fastq
